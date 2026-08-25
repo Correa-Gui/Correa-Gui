@@ -15,11 +15,7 @@
   
 </p>
 
-<br>
 
-
-
-<br clear="left"/>
 <br>
 
 ### 🤖 IA & Dados

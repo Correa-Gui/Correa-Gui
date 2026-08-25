@@ -48,26 +48,9 @@
   <img src="https://img.shields.io/badge/-Entra%20ID%20%2F%20SSO-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
 </p>
 
-<br>
-
-### 🚀 Projetos de IA em produção
-
-- **Integração Claude (Anthropic) + SAP** — conexão de LLM ao ecossistema do ERP para análises e desenvolvimentos assistidos por IA generativa.
-- **SAP Joule + painel de IA para aprovações C-Level** — IA generativa habilitada no S/4HANA com visibilidade inteligente do fluxo de decisões executivas.
-- **Visão computacional para classificação de açúcar (escala ICUMSA)** — IA aplicada à qualidade industrial no setor sucroenergético.
-- **Análise inteligente de contratos com LLMs** — extração estruturada e análise de documentos.
-- **Chatbot "Conecti" para WhatsApp** — automação de atendimento com redução de 40% no tempo de abertura de chamados.
-
-<br>
-
 ### 🎓 Formação & Certificações
 
 - **MBA em AI Engineering & Multi-Agents** — FIAP (em curso)
 - **Tecnólogo em Análise e Desenvolvimento de Sistemas** — FATEC Taquaritinga
 - **SAP Certified – Solution Architect (SAP BTP)** · **SAP Certified – SAP Build Developer**
 
-<br>
-
-<p align="left">
-  <sub>💡 Base sólida de engenharia corporativa + IA generativa aplicada a processos de negócio críticos, com segurança e governança.</sub>
-</p>

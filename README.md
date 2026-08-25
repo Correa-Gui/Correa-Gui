@@ -12,21 +12,12 @@
   <a href="mailto:guilhermec.baptista@outlook.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/-Jaboticabal,%20SP%20·%20Brasil-3FB950?style=flat-square&logo=googlemaps&logoColor=white" />
+  
 </p>
 
 <br>
 
-<table align="left">
-  <tr>
-    <td valign="top" width="50%">
-      <img height="165" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=3FB950&icon_color=3FB950&text_color=C9D1D9" />
-    </td>
-    <td valign="top" width="50%">
-      <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=3FB950&text_color=C9D1D9" />
-    </td>
-  </tr>
-</table>
+
 
 <br clear="left"/>
 <br>
